@@ -1,1 +1,1 @@
-This subdirectory is connected to github-uploader.herokuapp.com for purposes of rapid intake of uploaded materails to be evaluated for inclusion as a common resource and subject to curation at that point.  This subdirectory is not intended as a curated collection.
+This subdirectory is connected tohttps://github-uploader.herokuapp.com for purposes of rapid intake of uploaded materails to be evaluated for inclusion as a common resource and subject to curation at that point.  This subdirectory is not intended as a curated collection.
